@@ -2,7 +2,7 @@
 
 ## Core Skills: Individual Project
 
-For my individual project, I built a program that models rainfall in a landscape. The model is designed to:
+For my individual project, I built a program, in Python, that models rainfall in a landscape. The model is designed to:
 * randomly create raindrops as agents in the landscape;
 * move them downslope, and;
 * trace the paths of the raindrops to allow visualisation of the drainage network in the environment.
